@@ -1,3 +1,9 @@
+//Anh
+
+![NguyenThaiPhong](https://i.imgur.com/Tuk3YEJ.jpg)
+
+//Mo ta
+
 <h1 align="center">Hi, I'm Nguyen Thai Phong</h1>
 <h3 align="center">A chicken at FPT 🎲</h3>
 

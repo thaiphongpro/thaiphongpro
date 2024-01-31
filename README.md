@@ -1,8 +1,9 @@
 
 ![NguyenThaiPhong](https://i.imgur.com/Tuk3YEJ.jpg)
 
+<body text="blue" bgcolor="green">
 <h1 align="center">Hi, I'm Nguyen Thai Phong</h1>
-<h3 align="center">A chicken at FPT 🎲</h3>
+<h3 align="center">A chicken at FPT </h3>
 
 - My Blog [ThaiPhongPro Software JSC](https://nguyenphongproo.blogspot.com/)
 

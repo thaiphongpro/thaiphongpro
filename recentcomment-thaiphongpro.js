@@ -5,9 +5,9 @@ var copyright_by_duypham_dot_info = 'Recent Comments free version 3.2 by http://
   // độ dài tên
   length_content = 100;
   // độ dài nội dung bình luận
-  home_page = 'https://www.phamvanlinh.xyz/';
+  home_page = 'https://www.thaiphong.pro/';
   // link blogger
-  admin_uri = 'https://www.facebook.com/hnilnavmahp.ku/';
+  admin_uri = 'https://www.thaiphong.pro/about';
   // link admin
   no_avatar = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4eLf_Xwj_O89GmTpup2tK0g8HHtUwCjpVunjTlkormdHeoCwnYZrp8Dae-rxq9wxYWWosoyjLYkXgcfQ1M6Lqh-DJJs6VnIxUywPDbVDHuRiiqsQ88jfoTzCVg-8L7_x84uIkta-0KOet/s16000/favicon-1000x1000.png';
   // avatar ẩn danh

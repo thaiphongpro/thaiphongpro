@@ -1,33 +1,65 @@
-var _0x5ef8 = ["Recent Comments free version 3.2 by https://thaiphong.pro", "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiipVfuqmAV7SWFJUtnn2UmchM-zUDT4Ku28mo787ds8Ij9ODAXJ9x5Y1WMDvDn8TnEQTZ3jkeTfIwjAGJon6tTPh2MHEO7qAhJ5On_Pe3MMuqDeIOD6zP4-ZgcWj3U0tKkkbDzgpXr_MXY50jVv5QXGjQavnLtZ2ZYc5XtGLNMk4dfG14JIwLEMM0nnG0/s0/logo-thaiphongpro.png", "https://www.thaiphong.pro", "https://www.facebook.com/profile.php?id=570409941", "U b=[\"\\E\\G\\R\\v\\M\\f\\A\",\"\\M\\e\\e\\v\\1p\\r\\r\",\"\\X\",\"\\q\\n\\H\\s\",\"\\M\\j\\h\\H\",\"\\1e\\A\\C\\2A\",\"\\q\\n\\E\\h\\W\\1G\\H\",\"\\r\\v\\r\",\"\\1f\\e\",\"\\e\\q\\e\\l\\h\",\"\\h\\n\\e\\j\\R\",\"\\H\\h\\h\\E\",\"\\s\\v\\h\\n\\2B\\h\\f\\j\\m\\M\\1f\\e\\s\\e\\f\\l\\1F\\h\\k\\G\\l\\e\\k\",\"\\G\\j\\q\",\"\\f\\G\\e\\M\\s\\j\",\"\\k\\j\\m\",\"\\J\\E\\1f\\q\\A\\f\\J\\h\",\"\\l\\h\\n\\J\\e\\M\",\"\\l\\q\\n\\1c\",\"\\r\",\"\\k\\v\\l\\q\\e\",\"\\e\\M\\j\\1f\\q\\n\\I\\j\\h\\v\\l\\R\\I\\e\\s\",\"\\L\\f\\l\\G\\h\",\"\\J\\E\\1f\\h\\W\\e\\h\\n\\E\\h\\E\\1L\\j\\s\\v\\h\\j\\e\\R\",\"\\m\\s\\n\\e\\h\\n\\e\",\"\\k\\G\\A\\A\\f\\j\\R\",\"\\T\\1v\\2z\\2y\\2u\\1j\\1H\",\"\\x\",\"\\j\\h\\v\\l\\f\\m\\h\",\"\",\"\\k\\G\\P\\k\\e\\j\\q\\n\\J\",\"\\l\\f\\k\\e\\1M\\n\\E\\h\\W\\1G\\H\",\"\\T\\1v\\1n\\1w\\1w\\1H\",\"\\n\\f\\A\\h\",\"\\M\\e\\e\\v\\1p\\r\\r\\q\\A\\J\\1n\\X\\P\\l\\s\\J\\P\\l\\s\\J\\X\\m\\s\\A\\r\\q\\A\\J\\r\\P\\l\\f\\n\\1c\\X\\J\\q\\H\",\"\\n\\s\\x\\f\\L\\f\\e\\f\\j\",\"\\D\\k\\m\\j\\q\\v\\e\\x\\e\\R\\v\\h\\C\\w\\e\\h\\W\\e\\r\\1b\\f\\L\\f\\k\\m\\j\\q\\v\\e\\w\\x\\k\\j\\m\\C\\w\\M\\e\\e\\v\\k\\1p\\r\\r\\1d\\1d\\1d\\X\\P\\l\\s\\J\\J\\h\\j\\X\\m\\s\\A\\r\\H\\h\\h\\E\\k\\r\",\"\\r\\v\\f\\J\\h\\k\\r\\E\\h\\H\\f\\G\\l\\e\\r\",\"\\1e\\f\\l\\e\\C\\1b\\k\\s\\n\\I\\q\\n\\I\\k\\m\\j\\q\\v\\e\\T\\m\\f\\l\\l\\P\\f\\m\\1c\\C\\j\\m\\1u\\f\\L\\f\\e\\f\\j\\1j\\w\\B\\D\\r\\k\\m\\j\\q\\v\\e\\B\",\"\\1d\\j\\q\\e\\h\",\"\\D\\k\\m\\j\\q\\v\\e\\x\\e\\R\\v\\h\\C\\w\\e\\h\\W\\e\\r\\1b\\f\\L\\f\\k\\m\\j\\q\\v\\e\\w\\x\\k\\j\\m\\C\\w\",\"\\r\\H\\h\\h\\E\\k\\r\",\"\\r\\m\\s\\A\\A\\h\\n\\e\\k\\r\\E\\h\\H\\f\\G\\l\\e\\1e\\f\\l\\e\\C\\1b\\k\\s\\n\\I\\q\\n\\I\\k\\m\\j\\q\\v\\e\\T\\A\\f\\W\\I\\j\\h\\k\\G\\l\\e\\k\\C\\1n\\T\\m\\f\\l\\l\\P\\f\\m\\1c\\C\\j\\m\\1u\\f\\L\\f\\e\\f\\j\\1j\\w\\B\\D\\r\\k\\m\\j\\q\\v\\e\\B\",\"\\1F\\h\\m\\h\\n\\e\\x\\1J\\s\\A\\A\\h\\n\\e\\k\\x\\H\\j\\h\\h\\x\\L\\h\\j\\k\\q\\s\\n\\x\\1w\\X\\1j\\x\\P\\R\\x\",\"\\r\\H\\h\\h\\E\\k\\r\\m\\s\\A\\A\\h\\n\\e\\k\\r\\E\\h\\H\\f\\G\\l\\e\\1e\\f\\l\\e\\C\\1b\\k\\s\\n\\I\\q\\n\\I\\k\\m\\j\\q\\v\\e\\T\\A\\f\\W\\I\\j\\h\\k\\G\\l\\e\\k\\C\",\"\\T\\m\\f\\l\\l\\P\\f\\m\\1c\\C\\j\\m\\1u\\f\\L\\f\\e\\f\\j\\1n\\w\\B\\D\\r\\k\\m\\j\\q\\v\\e\\B\",\"\\D\\G\\l\\B\",\"\\1J\\s\\A\\A\\h\\n\\e\\k\\x\\s\\n\\x\",\"\\1p\\x\",\"\\1v\\m\",\"\\m\\s\\A\\A\\h\\n\\e\\1L\\f\\J\\h\\C\",\"\\T\",\"\\1e\",\"\\D\\l\\q\\x\\m\\l\\f\\k\\k\\C\\w\",\"\\j\\m\\I\\f\\E\\A\\q\\n\",\"\\j\\m\\I\\f\\G\\e\\M\\s\\j\",\"\\w\\B\\D\\E\\q\\L\\x\\m\\l\\f\\k\\k\\C\\w\\j\\m\\I\\q\\n\\H\\s\\w\\B\\D\\q\\A\\J\\x\\f\\l\\e\\C\\w\",\"\\w\\x\\m\\l\\f\\k\\k\\C\\w\\j\\m\\I\\f\\L\\f\\e\\f\\j\\w\\x\\k\\j\\m\\C\\w\",\"\\w\\r\\B\\D\\M\\1K\\B\",\"\\D\\r\\M\\1K\\B\\D\\r\\E\\q\\L\\B\\D\\f\\x\\M\\j\\h\\H\\C\\w\",\"\\w\\x\\j\\h\\l\\C\\w\\n\\s\\H\\s\\l\\l\\s\\1d\\w\\x\\e\\q\\e\\l\\h\\C\\w\",\"\\x\\s\\n\\x\",\"\\w\\B\\D\\v\\B\",\"\\D\\r\\v\\B\",\"\\e\\j\\G\\h\",\"\\D\\k\\v\\f\\n\\B\",\"\\D\\r\\k\\v\\f\\n\\B\",\"\\D\\r\\f\\B\\D\\E\\q\\L\\x\\m\\l\\f\\k\\k\\C\\w\\m\\l\\h\\f\\j\\w\\B\\D\\r\\E\\q\\L\\B\\D\\r\\l\\q\\B\",\"\\D\\r\\G\\l\\B\",\"\\q\\n\\n\\h\\j\\2b\\2c\\2i\\2j\",\"\\j\\m\\I\\f\\L\\f\\e\\f\\j\\I\\v\\l\\G\\k\",\"\\J\\h\\e\\2k\\l\\h\\A\\h\\n\\e\\2N\\R\\1M\\E\"];1g=0;u=0;V=[];d=[];p=[];Z=[];1i=[];1B=[];t=[];1y=[];1z=[];a=[];Y=[];1h=[];1o=[];1C=[];1D=[];1R=b[0];1S=b[1];1Y=b[2];1Q=b[3];1N=2Y[b[4]];y=1N[b[6]](b[5]);1x 2W(1q){K(d[u][b[6]](b[7])!=-1){Z[u]=1;o=1q[b[10]][b[9]][b[8]];t[u]=o}O{o=1q[b[11]][b[9]][b[8]];t[u]=o;1O=1q[b[11]][b[12]][b[8]];i=2Q((1O-1)/2S)+1;Z[u]=i};u++};1x 2T(S){1g=S[b[11]][b[12]][b[8]];1B=S[b[11]][b[9]][b[8]];K(b[13]1m S[b[11]][b[14]][0]){1C=S[b[11]][b[14]][0][b[13]][b[8]]};1D=S[b[11]][b[14]][0][b[16]][b[15]];1W(g=0;(g<1A)&&(g<1g);g++){c=S[b[11]][b[10]][g];K(g==S[b[11]][b[10]][b[17]]){2U};V=c[b[18]][0][b[4]];V=V[b[20]](b[19]);1X=V[4];1s=V[5];1I=V[8];d[g]=c[b[21]][b[4]];K(y!=-1){d[g]=d[g]+b[5]};1y[g]=c[b[23]][0][b[22]];1z[g]=c[b[23]][1][b[22]];p[g]=1I;K(b[24]1m c){U F=c[b[24]][b[8]]}O{K(b[25]1m c){U F=c[b[25]][b[8]]}O{U F=b[26]}};F=F[b[28]](/<2P \\/>/g,b[27]);F=F[b[28]](/@<a.*?a>/g,b[29]);F=F[b[28]](/<[^>]*>/g,b[29]);K(F[b[17]]<1E){1i[g]=F}O{F=F[b[30]](0,1E);U 1l=F[b[31]](b[27]);F=F[b[30]](0,1l);1i[g]=F+b[32]};Q=c[b[14]][0][b[33]][b[8]];K(Q[b[17]]<1P){a[g]=Q}O{Q=Q[b[30]](0,1P);U 1l=Q[b[31]](b[29]);Q=Q[b[30]](0,1l);a[g]=Q+b[32]};K(b[13]1m c[b[14]][0]){1o[g]=c[b[14]][0][b[13]][b[8]]};K(c[b[14]][0][b[16]][b[15]]==b[34]){Y[g]=2m;1h[g]=b[35]}O{Y[g]=c[b[14]][0][b[16]][b[15]];1h[g]=a[g]};K(d[g][b[6]](b[7])!=-1){1k[b[1r]](b[36]+1X+b[37]+1s+b[38])}O{1k[b[1r]](b[1T]+1U+b[2V]+1s+b[2X])}}};K(2R==b[2Z]+1S+1R+1Y+1Q){1k[b[1r]](b[1T]+1U+b[2O]+1A+b[2l])};1x 2n(){U N=b[29];N+=b[2o];1W(z=0;(z<1A)&&(z<1g);z++){t[z]=t[z][b[28]](b[2r]+1B+b[2q],b[29]);U 1a=b[29];K(Z[z]==1){1a=b[1V]}O{1t=b[2p]+Z[z]+b[1V];K(y!=-1){1a=b[2a]+1t}O{1a=b[1Z]+1t}};N+=b[2d];K(((1o[z]==1C)&&(Y[z]==1D))||((1o[z]==2e)&&(Y[z]==2h))){N+=b[2g]}O{N+=b[2f]};N+=b[2s]+1h[z]+b[2t]+Y[z]+b[2H]+a[z]+b[2G]+d[z]+1a+p[z]+b[2F]+a[z]+b[2I]+t[z]+b[2J]+1i[z]+b[2M];K(1y[z]!=b[2L]){N+=b[2K]+1z[z]+b[2E]};N+=b[2D]};N+=b[2x];1k[b[2w]](b[2v])[b[2C]]=N};", "|", "split", "|||||||||||_0x965f|||x74|x61||x65||x72|x73|x6C|x63|x6E|||x69|x2F|x6F|||x70|x22|x20|||x6D|x3E|x3D|x3C|x64|_0x3126x5|x75|x66|x2D|x67|if|x76|x68|_0x3126x8|else|x62|a2|x79|_0x3126x4|x26|var|lk|x78|x2E|im|pn|||||||||||_0x3126x9|x6A|x6B|x77|x3F|x24|tt|alt|j2|x32|document|_0x3126x6|in|x31|ur|x3A|_0x3126x2|39|pid|cp|x5F|x23|x33|function|pi|ti|nc|tb|ura|ima|length_content|x52|x4F|x3B|cid|x43|x34|x50|x49|a3|num|length_name|inf|ad|loc|40|home_page|49|for|bid|dot|52|||||||||||51|x48|x54|53|admin_uri|55|54|admin_avatar|x4D|x4C|x45|45|no_avatar|rc_avatar|46|50|48|47|56|57|x39|70|71|68|x35|x38|x30|x53|69|67|66|60|59|58|61|62|65|64|63|x42|44|br|parseInt|copyright_by_duypham_dot_info|200|rc_avatar1|break|41|rc_avatar2|42|location|43|||||||||", "", "fromCharCode", "replace", "\\w+", "\\b", "g"];
-var copyright_by_duypham_dot_info = _0x5ef8[0];
-nc = 40;
-length_name = 15;
-length_content = 100;
-no_avatar = _0x5ef8[1];
-home_page = _0x5ef8[2];
-admin_uri = _0x5ef8[3];
-admin_avatar = _0x5ef8[1];
-var dp = [_0x5ef8[4], _0x5ef8[5], _0x5ef8[6], _0x5ef8[7], _0x5ef8[8], _0x5ef8[9], _0x5ef8[10], _0x5ef8[11], _0x5ef8[12], _0x5ef8[13]];
-eval(function (_0xa9f9x3, _0xa9f9x4, _0xa9f9x5, _0xa9f9x6, _0xa9f9x7, _0xa9f9x8) {
-    _0xa9f9x7 = function (_0xa9f9x5) {
-        return (_0xa9f9x5 < _0xa9f9x4 ? dp[4] : _0xa9f9x7(parseInt(_0xa9f9x5 / _0xa9f9x4))) + ((_0xa9f9x5 = _0xa9f9x5 % _0xa9f9x4) > 35 ? String[dp[5]](_0xa9f9x5 + 29) : _0xa9f9x5.toString(36))
-    };
-    if (!dp[4][dp[6]](/^/, String)) {
-        while (_0xa9f9x5--) {
-            _0xa9f9x8[_0xa9f9x7(_0xa9f9x5)] = _0xa9f9x6[_0xa9f9x5] || _0xa9f9x7(_0xa9f9x5)
-        };
-        _0xa9f9x6 = [function (_0xa9f9x7) {
-            return _0xa9f9x8[_0xa9f9x7]
-        }];
-        _0xa9f9x7 = function () {
-            return dp[7]
-        };
-        _0xa9f9x5 = 1
-    };
-    while (_0xa9f9x5--) {
-        if (_0xa9f9x6[_0xa9f9x5]) {
-            _0xa9f9x3 = _0xa9f9x3[dp[6]](new RegExp(dp[8] + _0xa9f9x7(_0xa9f9x5) + dp[8], dp[9]), _0xa9f9x6[_0xa9f9x5])
-        }
-    };
-    return _0xa9f9x3
-}(dp[0], 62, 195, dp[3][dp[2]](dp[1]), 0, {}))
+var copyright_by_duypham_dot_info = 'Recent Comments free version 3.2 by http://duypham.info';
+  nc = 20;
+  // số lượng bình luận
+  length_name = 25;
+  // độ dài tên
+  length_content = 100;
+  // độ dài nội dung bình luận
+  home_page = 'https://www.phamvanlinh.xyz/';
+  // link blogger
+  admin_uri = 'https://www.facebook.com/hnilnavmahp.ku/';
+  // link admin
+  no_avatar = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4eLf_Xwj_O89GmTpup2tK0g8HHtUwCjpVunjTlkormdHeoCwnYZrp8Dae-rxq9wxYWWosoyjLYkXgcfQ1M6Lqh-DJJs6VnIxUywPDbVDHuRiiqsQ88jfoTzCVg-8L7_x84uIkta-0KOet/s16000/favicon-1000x1000.png';
+  // avatar ẩn danh
+  admin_avatar = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4eLf_Xwj_O89GmTpup2tK0g8HHtUwCjpVunjTlkormdHeoCwnYZrp8Dae-rxq9wxYWWosoyjLYkXgcfQ1M6Lqh-DJJs6VnIxUywPDbVDHuRiiqsQ88jfoTzCVg-8L7_x84uIkta-0KOet/s16000/favicon-1000x1000.png';
+  // avatar admin
+  function rc_avatar2(a) {
+    -1 != d[u].indexOf("/p/") ? (pn[u] = 1, o = a.entry.title.$t, t[u] = o) : (o = a.feed.title.$t, t[u] = o, num = a.feed.openSearch$totalResults.$t, i = parseInt((num - 1) / 200) + 1, pn[u] = i), u++
+  }
+  function rc_avatar1(t) {
+    tt = t.feed.openSearch$totalResults.$t, tb = t.feed.title.$t, "uri" in t.feed.author[0] && (ura = t.feed.author[0].uri.$t), ima = t.feed.author[0].gd$image.src;
+    for (g = 0; g < nc && g < tt && (c = t.feed.entry[g], g != t.feed.entry.length); g++) {
+      if (lk = c.link[0].href, lk = lk.split("/"), bid = lk[4], pid = lk[5], cid = lk[8], d[g] = c["thr$in-reply-to"].href, -1 != y && (d[g] = d[g] + "?m=0"), pi[g] = c.gd$extendedProperty[0].value, ti[g] = c.gd$extendedProperty[1].value, p[g] = cid, "content" in c) var e = c.content.$t;
+      else if ("summary" in c) e = c.summary.$t;
+      else e = "&#8592;";
+      if ((e = (e = (e = e.replace(/<br \/>/g, " ")).replace(/@<a.*?a>/g, "")).replace(/<[^>]*>/g, "")).length < length_content) j2[g] = e;
+      else {
+        var r = (e = e.substring(0, length_content)).lastIndexOf(" ");
+        e = e.substring(0, r), j2[g] = e + "&#133;"
+      }
+      if (a2 = c.author[0].name.$t, a2.length < length_name) a[g] = a2;
+      else {
+        a2 = a2.substring(0, length_name);
+        r = a2.lastIndexOf("");
+        a2 = a2.substring(0, r), a[g] = a2 + "&#133;"
+      }
+      "uri" in c.author[0] && (ur[g] = c.author[0].uri.$t), "http://img1.blogblog.com/img/blank.gif" == c.author[0].gd$image.src ? (im[g] = no_avatar, alt[g] = "no avatar") : (im[g] = c.author[0].gd$image.src, alt[g] = a[g]), -1 != d[g].indexOf("/p/") ? document.write('<script type="text/javascript" src="https://www.blogger.com/feeds/' + bid + "/pages/default/" + pid + '?alt=json-in-script&callback=rc_avatar2"><\/script>') : document.write('<script type="text/javascript" src="' + home_page + "/feeds/" + pid + '/comments/default?alt=json-in-script&max-results=1&callback=rc_avatar2"><\/script>')
+    }
+  }
+  function rc_avatar() {
+    var e = "";
+    for (e += "<ul>", z = 0; z < nc && z < tt; z++) {
+      t[z] = t[z].replace("Comments on " + tb + ": ", "");
+      var r = "";
+      1 == pn[z] ? r = "#c" : (cp = "commentPage=" + pn[z] + "#c", r = -1 != y ? "&" + cp : "?" + cp), e += '<li class="', ur[z] == ura && im[z] == ima || ur[z] == admin_uri && im[z] == admin_avatar ? e += "rc-admin" : e += "rc-author", e += '"><div class="rc-info"><img alt="' + alt[z] + '" class="rc-avatar" src="' + im[z] + '"/><h4>' + a[z] + '</h4></div><a href="' + d[z] + r + p[z] + '" rel="nofollow" title="' + a[z] + " on " + t[z] + '"><p>' + j2[z] + "</p>", "true" != pi[z] && (e += "<span>" + ti[z] + "</span>"), e += '</a><div class="clear"></div></li>'
+    }
+    e += "</ul>", document.getElementById("rc-avatar-plus").innerHTML = e
+  }
+  tt = 0, u = 0, lk = [], d = [], p = [], pn = [], j2 = [], tb = [], t = [], pi = [], ti = [], a = [], im = [], alt = [], ur = [], ura = [], ima = [], ad = "duypham", loc = "http://", dot = ".", inf = "info", a3 = location.href, y = a3.indexOf("?m=0"), copyright_by_duypham_dot_info == "Recent Comments free version 3.2 by " + loc + ad + dot + inf && document.write('<script type="text/javascript" src="' + home_page + "/feeds/comments/default?alt=json-in-script&max-results=" + nc + '&callback=rc_avatar1"><\/script>');
+  //]]>
+</script>
+<script type='text/javascript'>rc_avatar();
+</script>
+<!-- get số lượng comments -->
+<script type='text/javascript'>
+  //<![CDATA[
+  function totalComments(json) {
+    document.addEventListener("DOMContentLoaded", () => {
+      var commentsCount = json.feed.openSearch$totalResults.$t
+      document.getElementById('totalComments_bottom').innerHTML = commentsCount > 20 ? `Xem thêm ${commentsCount - 20} bình luận` : `Xem tất cả bình luận` 
+      document.querySelector('.codepro-commentStart .more > *').title = `Xem ${commentsCount} bình luận`
+      document.querySelector('.popup-comments').dataset.text = commentsCount
+    });
+  };
+  document.write('<script type=\"text/javascript\" src=\"/feeds/comments/default?alt=json-in-script&max-results=0&callback=totalComments\"><\/script>');
+  //]]>
